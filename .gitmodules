@@ -5,6 +5,9 @@
 [submodule "daedalus"]
 	path = daedalus
 	url = https://github.com/jameel-institute/daedalus
+[submodule "daedalus.compare"]
+	path = daedalus.compare
+	url = https://github.com/jameel-institute/daedalus.compare
 [submodule "jameelinst.rpkg.theme"]
 	path = jameelinst.rpkg.theme
 	url = https://github.com/jameel-institute/jameelinst.rpkg.theme
