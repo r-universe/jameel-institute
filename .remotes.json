@@ -1,0 +1,14 @@
+[
+  {
+    "package": "dust2",
+    "url": "https://github.com/mrc-ide/dust2",
+    "via": ["daedalus"],
+    "from": "daedalus"
+  },
+  {
+    "package": "monty",
+    "url": "https://github.com/mrc-ide/monty",
+    "via": ["daedalus", "dust2"],
+    "from": "daedalus"
+  }
+]
