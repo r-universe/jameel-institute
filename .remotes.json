@@ -1,5 +1,11 @@
 [
   {
+    "package": "daedalus.data",
+    "url": "https://github.com/jameel-institute/daedalus.data",
+    "via": ["daedalus"],
+    "from": "daedalus"
+  },
+  {
     "package": "dust2",
     "url": "https://github.com/mrc-ide/dust2",
     "via": ["daedalus"],

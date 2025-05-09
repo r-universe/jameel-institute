@@ -8,6 +8,10 @@
 [submodule "daedalus.compare"]
 	path = daedalus.compare
 	url = https://github.com/jameel-institute/daedalus.compare
+[submodule "daedalus.data"]
+	path = daedalus.data
+	url = https://github.com/jameel-institute/daedalus.data
+	registered = false
 [submodule "dust2"]
 	path = dust2
 	url = https://github.com/mrc-ide/dust2
