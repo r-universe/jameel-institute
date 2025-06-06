@@ -3,7 +3,6 @@
     "package": "daedalus",
     "url": "https://github.com/jameel-institute/daedalus",
     "via": ["daedalus.compare"],
-    "branch": "v0.2.0",
     "from": "daedalus.compare"
   },
   {
