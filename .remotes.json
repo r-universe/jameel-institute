@@ -6,6 +6,12 @@
     "from": "daedalus.compare"
   },
   {
+    "package": "daedalus",
+    "url": "https://github.com/jameel-institute/daedalus",
+    "via": ["daedalus.data"],
+    "from": "daedalus.data"
+  },
+  {
     "package": "daedalus.data",
     "url": "https://github.com/jameel-institute/daedalus.data",
     "via": ["daedalus"],
@@ -30,6 +36,12 @@
     "from": "daedalus.compare"
   },
   {
+    "package": "dust2",
+    "url": "https://github.com/mrc-ide/dust2",
+    "via": ["daedalus.data"],
+    "from": "daedalus.data"
+  },
+  {
     "package": "monty",
     "url": "https://github.com/mrc-ide/monty",
     "via": ["daedalus", "daedalus.data", "dust2"],
@@ -40,5 +52,11 @@
     "url": "https://github.com/mrc-ide/monty",
     "via": ["daedalus.compare", "daedalus", "daedalus.data", "dust2"],
     "from": "daedalus.compare"
+  },
+  {
+    "package": "monty",
+    "url": "https://github.com/mrc-ide/monty",
+    "via": ["daedalus.data", "dust2"],
+    "from": "daedalus.data"
   }
 ]
