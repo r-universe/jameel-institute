@@ -11,14 +11,6 @@
 [submodule "daedalus.data"]
 	path = daedalus.data
 	url = https://github.com/jameel-institute/daedalus.data
-[submodule "dust2"]
-	path = dust2
-	url = https://github.com/mrc-ide/dust2
-	registered = false
 [submodule "jameelinst.rpkg.theme"]
 	path = jameelinst.rpkg.theme
 	url = https://github.com/jameel-institute/jameelinst.rpkg.theme
-[submodule "monty"]
-	path = monty
-	url = https://github.com/mrc-ide/monty
-	registered = false
